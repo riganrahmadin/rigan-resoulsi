@@ -2,5 +2,7 @@ RENCANA BARU
 -HTML,CSS,JAVA
 -Boostrap
 -framwork-detai lmateri baru
+anluar
+react
 -
 ssss
