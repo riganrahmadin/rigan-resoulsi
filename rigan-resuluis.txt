@@ -3,3 +3,4 @@ rigan resulusi
 -membuat platfrom yang berguna 
 -membuat forum diskusi
 -memnambahkan ss
+-membuat filee baru
